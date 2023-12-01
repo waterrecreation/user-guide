@@ -4,7 +4,9 @@ description: 🕑 Updated October 30, 2023
 
 # 📒 Overview
 
-<img src=".gitbook/assets/image (1).png" alt="" data-size="line"> Popula is a user-owned platform for communities built on NEAR Protocol.
+<img src=".gitbook/assets/image (1).png" alt="" data-size="line"> Popula is a platform offering on-chain tools to empower communities to record, own, verify, control and monetise their social data.&#x20;
+
+Popula provides each community with an independent smart contract and various features, allowing communities to retain their sovereignty and unleash creativity.
 
 :bee: <mark style="color:purple;">Partake in the communities, co-own the platform.</mark>
 
