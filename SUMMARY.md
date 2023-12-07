@@ -4,8 +4,9 @@
 
 ## 👋 Getting Started
 
-* [Signing in to Popula](getting-started/signing-in-to-popula.md)
-* [Your username and display name](getting-started/your-username-and-display-name.md)
+* [Wallet Sign-in](getting-started/wallet-sign-in.md)
+* [Join communities](getting-started/join-communities.md)
+* [Profile Setup](getting-started/profile-setup.md)
 * [Interface](getting-started/interface.md)
 
 ## 🐝 User Profile
@@ -15,7 +16,6 @@
 
 ## 🏡 Communities
 
-* [Join communities](communities/join-communities.md)
 * [Launch a community](communities/launch-a-community.md)
 * [Manage communities](communities/manage-communities.md)
 * [Community analytics](communities/community-analytics.md)
@@ -46,6 +46,6 @@
 
 ## 📩 FAQ & Support
 
+* [Change Log](faq-and-support/change-log.md)
 * [FAQ](faq-and-support/faq.md)
-* [Popula Wiki](interactions-and-engagements/post.md)
 * [Need more help?](faq-and-support/need-more-help.md)
