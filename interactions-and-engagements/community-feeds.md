@@ -1,6 +1,8 @@
-# Overview
+# Community Feeds
 
-Congratulations! You have found your people! 👋 Once you have joined or launched a community, you can start making friends, sharing your story, communicating with others, and helping make the community appeal to more to onboard.
+Congratulations! You have found your people! 👋&#x20;
+
+Now it's time to make friends, share your story, communicate with others, unleash your creativity, and help make the community appeal to more to onboard.
 
 If you want to connect with the community, **Community Feeds** is the way to go. Here you can check out the posts, start a conversation, or give them a thumbs up. 😎
 

@@ -32,4 +32,4 @@ Whether you’re already a Popula user or new to this platform, you can easily c
 4. Click the "Check" button. The total amount of Drips earned from Drip Royalties through this account will be displayed on the page, along with a list of posts that echoed your content or assets.
 5. You can then choose to check Drip Royalties for another account by clicking the ‘Change account’ button. Or, verify the ownership of the account and claim the Drips by clicking the ‘Link to claim’ button. If you choose ‘Link to claim’, you will be then redirected to the sign-up page if you’re new to Popula, and then link your accounts in ‘Settings’ to claim the **Drips**.
 
-👉 See how to[ link accounts](../user-profile/link-accounts.md) on Popula.
+👉 See how to[ link accounts](../getting-started/link-accounts.md) on Popula.
