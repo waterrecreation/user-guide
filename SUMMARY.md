@@ -21,6 +21,7 @@
 * [Report & Delete](interactions-and-engagements/report-and-delete.md)
 * [Poll & Proposal](interactions-and-engagements/poll-and-proposal.md)
 * [Follow](interactions-and-engagements/social-graph.md)
+* [Invite](interactions-and-engagements/invite.md)
 
 ## 💧 Drips & Drip Royalties
 

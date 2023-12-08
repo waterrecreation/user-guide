@@ -29,8 +29,8 @@ You can also click on the "three dots" on the top right of the post to see more 
 
 * Tx proof \~ go to see the transaction for this post on Nearblocks
 * Copy link \~ copy the invite link to this post to clipboard
-* Share to twitter \~ share the invite link to this post on X (prev.Twitter)
-* Not interested \~ mark this post as not interested so it will not appear in your own feeds anymore
+* Share to twitter \~ share the invite link to this post on X (prev. Twitter)
+* Not interested \~ mark this post as not interested so it will not appear in your feeds anymore
 * Report \~ [report](report-and-delete.md)[ ](report-and-delete.md#report)the post
 
 You will also see these options:

@@ -15,9 +15,11 @@ The acquisition of drips primarily falls into two categories:
 | Comment       | +1    |
 | Like          | +0.2  |
 | Poll/Proposal | +1    |
-| Referral\*    | +10   |
+| Invite\*      | +10   |
 
 After successfully posting a Post, publishing a Comment, or Liking a post, you will receive a real-time pop-up alert on the top right corner of the page. :bellhop:
+
+> \*️⃣ When you **refer** a community on Popula by sharing a post/comment to others who are not already on Popula, you will only be given the Drips for it on the condition that **the other person registers on Popula successfully via your referral link.**
 
 ### **Passive Drips**
 
@@ -31,7 +33,7 @@ Passive Drips delivered to you through Echos are based on [Drip Royalties](drip-
 
 > 👉 For your poll/proposal, each vote you receive will deliver 0.2 Drips, for a detailed breakdown of Poll/Proposal, please see [How Drips work with Poll & Proposal?](how-drips-work-with-poll-and-proposal.md)
 
-> \*️⃣ When you **refer** a community on Popula by sharing a post/comment to others who are not already on Popula, you will only be given the Drips for it on the condition that **the other person registers on Popula successfully via your referral link.**
+>
 
 The amount of Drips delivered to a post through likes and comments (passive drips) will be displayed at the bottom of the post, reflecting its popularity. The larger the amount, the more popular the post is.
 
