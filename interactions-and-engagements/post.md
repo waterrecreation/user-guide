@@ -6,7 +6,7 @@ On the top of the community homepage, you can easily find the **Content Editor**
 
 To create a post, simply write something down in the post, and click on "Post". Now you can post up to 1000 characters, and you also enrich your content using emojis or inserting images, or [echo](echo.md)ing someone else’s content from within Popula or elsewhere.&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **Content Editor** is also the entry to start a [poll](poll-and-proposal.md#how-to-create-a-poll) or [proposal](poll-and-proposal.md#how-to-create-a-proposal) to gather opinions or make collective decisions.&#x20;
 
@@ -14,7 +14,7 @@ To create a post, simply write something down in the post, and click on "Post". 
 
 You can also post **Drips-gated posts** in communities by clicking the ‘lock’ button beside the Post button. A drip-gated post requires other members to **hold or burn** a minimum amount of Drips to view its content, including its comments.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Here's how to set a post as token-gated.
 

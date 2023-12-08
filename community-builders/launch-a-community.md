@@ -17,7 +17,7 @@ First of all, you'll need to give your community a **Community Name**.
 1. when entering the name you choose, the contract name displays simultaneously below.
 2.  You can edit the name later in the **Community Console**, but **once the community is established, the community contract address will no longer be able to be altered, as shown below:**
 
-    <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Once you have decided on your Community Name, upload your Community Profile Image to visually draw your fellow bees in. Or you can skip this part and choose to upload an image later on in **Community Console**.
 

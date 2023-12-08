@@ -2,7 +2,7 @@
 
 To access the Community Treasury on Popula, you can simply navigate to the Community Overview, and scroll down to see the Treasury board. You can also click on "More" to access additional details about the Treasury's funds and activities.
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 #### **Contributing to Community Treasury**
 

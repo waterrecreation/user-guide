@@ -50,11 +50,11 @@ Here, you'll find a dashboard that summarizes your Drips-related data and charts
 
 On the top, you can view the total number of Drips you've earned on Popula, your available Drips, consumed Drips, and the amount of Drips waiting to be claimed.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Don’t forget to claim your Drips, always!
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="311"><figcaption></figcaption></figure>
 
 Below you’ll find three charts displaying respectively
 
@@ -74,7 +74,7 @@ Scrolling down, you will see **Drips activity.** **Drips activity** contains a l
 
 All notifications you get from your communities will show up here, for example, new followers, comments, likes, etc.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Settings Section <a href="#settings" id="settings"></a>
 
@@ -86,4 +86,4 @@ You can also connect to your email to receive email pushes later.
 
 Additionally, you may have noticed a floating window in your page's bottom right corner. This window displays the number of available and claimable drips, which enables you to keep track of your drips and collect them with simple clicks.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>

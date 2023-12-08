@@ -30,7 +30,7 @@ You can also filter the list by Groups.&#x20;
 
 Additionally, you can easily search for an address to see if the person has already joined the community, and view his or her achievement based on the metrics.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ### **Vibe Pulse**
 
@@ -38,6 +38,6 @@ It’s a **Community Drip Overview** which indicates the community Drip activiti
 
 These data-driven insights empower leaders to make more scientific decisions and design activities that yield the best results for their communities.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt="" width="338"><figcaption></figcaption></figure>
 
 ###
