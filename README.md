@@ -6,7 +6,7 @@ description: 🕑 Updated October 30, 2023
 
 ## What is Popula?
 
-<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line"> [Popula](https://app.gitbook.com/o/HCepzB6DRLyxDcIhIlG9/s/ZBnKaPLpAdCRQYIhODUk/) offers on-chain tools to empower communities to record, own, verify, control and monetise their social data.&#x20;
+<img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> [Popula](https://app.gitbook.com/o/HCepzB6DRLyxDcIhIlG9/s/ZBnKaPLpAdCRQYIhODUk/) offers on-chain tools to empower communities to record, own, verify, control and monetise their social data.&#x20;
 
 [Popula](https://app.gitbook.com/o/HCepzB6DRLyxDcIhIlG9/s/ZBnKaPLpAdCRQYIhODUk/) provides communities with the necessary tools to foster meaningful engagement and connections which ensure community members maintain absolute control over their data and social networks.&#x20;
 

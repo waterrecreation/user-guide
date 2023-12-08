@@ -14,6 +14,8 @@ You can also simply block the post as well if you don’t want to see it.
 
 All the activities are recorded on chain, and you can look it up by choosing the TX option within the dropdown list of the three dots symbol.
 
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Report</p></figcaption></figure>
+
 #### Delete
 
 If the post or comment is posted by yourself, you will see the option to delete it.
@@ -25,3 +27,5 @@ All deleted content, be it having been deleted by yourself or removed via report
 However, since the content is still stored on-chain, it will always exist there. The owner can always access it in transactions or port it to somewhere else if they wish.
 
 This is also to maintain a reasonable balance between content moderation and freedom of expression.
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

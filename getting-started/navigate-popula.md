@@ -10,7 +10,7 @@ Popula’s user interface consists of the following sections:
 
 To navigate to different sections, simply click the icons located in the sidebar.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Sidebar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Sidebar</p></figcaption></figure>
 
 ## Communities Section
 
@@ -22,7 +22,7 @@ As soon as you log in, you're automatically a part of the awesome Popula Communi
 
 If you hover over a community, you will see a small star next to the community, click here to mark the community as your Starred Community.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Profile Section
 
@@ -40,7 +40,7 @@ You will also see the date of following and TxIDs after each follower/following 
 
 Every action you perform on Popula is recorded on the blockchain as a transaction. Within the **Transaction** section, you can view a summary of your activities on Popula, including a chart that illustrates the proportions of different types of your behaviors. Beneath the summary, you will find a record of each of your activities, and clicking on the TxID will take you to the corresponding transaction on [Nearblocks](https://nearblocks.io/).
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,7 +50,11 @@ Here, you'll find a dashboard that summarizes your Drips-related data and charts
 
 On the top, you can view the total number of Drips you've earned on Popula, your available Drips, consumed Drips, and the amount of Drips waiting to be claimed.
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 Don’t forget to claim your Drips, always!
+
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="311"><figcaption></figcaption></figure>
 
 Below you’ll find three charts displaying respectively
 
@@ -58,15 +62,19 @@ Below you’ll find three charts displaying respectively
 * Drips earned from different activities
 * Your daily Drip earnings
 
-**Drips activity** contains a log of your Drips activities that lists all the changes in them and their corresponding activities. You can set a start date and end date to filter out Drip changes within a certain period of time. Additionally, you can click on the **Tx** to be directed to the specific transaction on [Nearblocks](https://nearblocks.io/).
+<figure><img src="../.gitbook/assets/drips graph (1).gif" alt=""><figcaption></figcaption></figure>
 
-❓ Curious about what Drips are and what they can do?&#x20;
+Scrolling down, you will see **Drips activity.** **Drips activity** contains a log of your Drips activities that lists all the changes in them and their corresponding activities. You can set a start date and end date to filter out Drip changes within a certain period of time. Additionally, you can click on the **Tx** to be directed to the specific transaction on [Nearblocks](https://nearblocks.io/).
 
-Check out [Drips & Drip Royalties ](broken-reference)for all the information you need!
+> _❓ Curious about what Drips are and what they can do?  Check out_ [_Drips & Drip Royalties_ ](broken-reference)_for all the information you need!_
+
+
 
 ## Notification Section
 
 All notifications you get from your communities will show up here, for example, new followers, comments, likes, etc.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Settings Section <a href="#settings" id="settings"></a>
 
@@ -77,3 +85,5 @@ At this stage, you can link your Ethereum wallet, and Twitter account to verify 
 You can also connect to your email to receive email pushes later.
 
 Additionally, you may have noticed a floating window in your page's bottom right corner. This window displays the number of available and claimable drips, which enables you to keep track of your drips and collect them with simple clicks.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

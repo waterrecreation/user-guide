@@ -9,3 +9,5 @@ If you want to connect with the community, **Community Feeds** is the way to go.
 **Community Feeds** is a stream of content posted within a community, Users can engage in the community through **posts**, **comments**, **likes**, **echos,** or even **reports**, and all the engagements are recorded in transactions on-chain.
 
 All the interactions will generate a certain amount of [Drips](https://www.notion.so/5-Drips-Drip-Royalties-c65860c21a0e45cfa59d5dda0b35e131?pvs=21).
+
+<figure><img src="../.gitbook/assets/Kapture 2023-12-08 at 13.55.56.gif" alt=""><figcaption></figcaption></figure>

@@ -4,15 +4,23 @@
 
 1. Go to a community where you want to start the Poll.
 2. Find the section to create a post, and enter the poll question in the post box.
-3. Then click the button ‘Poll’ below the post box.
+3.  Then click the button ‘Poll’ below the post box.
+
+
+
+    <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 4. Add up to 4 options. Then, determine the duration of the Poll and Confirm.
 5. Review the details for the Poll, and click on ‘Post’ to publish it. You can also set Drips Royalties for this Poll or set this Poll as Drip-gated.
 
 The Poll will automatically be closed and the results will be tallied after the time ends.
 
+
+
 #### How to create a Proposal?
 
-1. Navigate to the Community, and make sure that you have permission to create a proposal. (This depends on the permission settings in the Community Console.)
+1.  Navigate to the Community, and make sure that you have permission to create a proposal. (Not every one has the permission to create a proposal. This depends on the permission settings in the Community Console.)
+
+    <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 2. Find the section to create a post, and enter the proposal in the post box.
 3. Click "create a proposal" button below the post box.
 4. Set parameters for your Proposal.
@@ -50,7 +58,9 @@ The Poll will automatically be closed and the results will be tallied after the 
        *   No action
 
            If you choose "no action," the proposal will not execute any operation after approval. This is to ensure that other types of proposals or proposals that can only be executed outside Popula can also be publicly voted on in Popula with full transparency and on chain records.
-6. Confirm all the settings for this proposal before posting.
+6. Confirm all the settings for this proposal before posting.&#x20;
+
+<figure><img src="../.gitbook/assets/proposal.gif" alt=""><figcaption></figcaption></figure>
 
 #### How to cast a vote?
 
@@ -60,7 +70,7 @@ The Poll will automatically be closed and the results will be tallied after the 
 
     > If it's a Drip-based proposal, enter the amount of Drips you want to stake for your vote.
 
-Once you have voted, the current voting numbers will be displayed, and you will not be able to modify your vote. Your vote will be recorded on chain and will count towards the final outcome of the proposal or poll.
+Once you have voted, the current voting numbers will be displayed, and you will not be able to modify your vote. Your vote will be recorded on chain and will count towards the outcome of the proposal or poll.
 
 ❗ **Note!**
 

@@ -4,9 +4,7 @@ Drip Royalties is a groundbreaking feature that revolutionises the relationship 
 
 👉 To set Post Drip Royalties, check out the details [here](../interactions-and-engagements/post.md#set-post-drip-royalties).
 
-
-
-#### Check Drip Royalties
+## Check Drip Royalties
 
 Whether you’re already a Popula user or new to this platform, you can easily check your Drips Royalties earned through your valuable content creations or assets.
 
@@ -33,3 +31,5 @@ Whether you’re already a Popula user or new to this platform, you can easily c
 5. You can then choose to check Drip Royalties for another account by clicking the ‘Change account’ button. Or, verify the ownership of the account and claim the Drips by clicking the ‘Link to claim’ button. If you choose ‘Link to claim’, you will be then redirected to the sign-up page if you’re new to Popula, and then link your accounts in ‘Settings’ to claim the **Drips**.
 
 👉 See how to[ link accounts](../getting-started/link-accounts.md) on Popula.
+
+<figure><img src="../.gitbook/assets/check royalty.gif" alt=""><figcaption><p>Check Drip Royalties</p></figcaption></figure>

@@ -15,12 +15,12 @@
 
 * [Community Feeds](interactions-and-engagements/community-feeds.md)
 * [Post](interactions-and-engagements/post.md)
-* [Comment](interactions-and-engagements/comment.md)
+* [Reply](interactions-and-engagements/reply.md)
 * [Like](interactions-and-engagements/like.md)
 * [Echo](interactions-and-engagements/echo.md)
 * [Report & Delete](interactions-and-engagements/report-and-delete.md)
 * [Poll & Proposal](interactions-and-engagements/poll-and-proposal.md)
-* [Social Graph](interactions-and-engagements/social-graph.md)
+* [Follow](interactions-and-engagements/follow.md)
 
 ## 💧 Drips & Drip Royalties
 
