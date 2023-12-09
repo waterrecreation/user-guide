@@ -39,7 +39,7 @@ You can also add a post from X (prev.Twitter) to your post on Popula.
 2. Enter the link to the tweet in text box
 3. The Tweet will be loaded and you can then publish your post.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Echo a tweet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Echo a tweet</p></figcaption></figure>
 
 With the Echo function on Popula, creators can directly benefit from a share of their content, while curators can contribute more meaningfully to the growth of creators. The **Echo** function is the cog in the wheel of **Drip Royalties.** Through Echo, Drip Royalties will organically accumulate momentum and kickstart the flywheel of multiplayer creation.
 

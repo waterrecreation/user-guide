@@ -37,7 +37,7 @@ Passive Drips delivered to you through Echos are based on [Drip Royalties](drip-
 
 The amount of Drips delivered to a post through likes and comments (passive drips) will be displayed at the bottom of the post, reflecting its popularity. The larger the amount, the more popular the post is.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ### **Drip Bonus System**
 

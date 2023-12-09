@@ -8,7 +8,7 @@ Once you have launched your community, you can manage it using **Community Conso
 
 You can enter the Community Console under the community banner on the community page.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -63,7 +63,7 @@ The balance will show as above, circled in red and the option to top this balanc
 
 Once enabled, you can further specify which specific action and the maximum daily limit for each action that a visitor is allowed to perform in your community.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ### Participants Section
 
@@ -73,7 +73,7 @@ This is split into three groups: all, grouped and banned so you can come back an
 
 Here you can see a list of all members in your community.
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 Move your mouse over a specific user and you will see the button to quickly add a role **Group** for it or ban this user. If a member breaks the community rules you also have the option to ban them for a chosen period of time. Admins can manage bans to avoid malicious content and misbehavior.
 
@@ -85,7 +85,7 @@ Popula allows community admins to set up **Groups** within the community and giv
 
 Entering **Groups**, you can see **Banned (the banned members)** and **Mod (moderators)** are there by default, you can also create new groups and the groups created will also appear here.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 To create additional groups, click the **Create new group** button located in the top right corner of the page, name the group, pick a displayed color, and set the permission you wish to. Once it’s created, you’ll be able to add and remove members at any time.
 
@@ -117,7 +117,7 @@ To **pin a post**, click the shield icon on the bottom right corner of a post on
 
 The posts you have pinned will be displayed at the top of your community post feeds.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 #### **Report**
 
@@ -133,4 +133,4 @@ _Each report requires depositing 1 Drip_
 * If you **ignore** the report, e.g.: If there is no reason for reporting, or the reported content does not clearly violate the rules (only borderline), the reported content will remain visible and the 1 Drip deposited will be returned **\[+1 Drips].**
 * If you **disapprove** the report, the reported content will also remain the same, but the reporter’s staked 1 Drip will be **slashed** as this is deemed as a spam report \[+0 Drips]
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>

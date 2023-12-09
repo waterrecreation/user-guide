@@ -25,7 +25,7 @@ For each post within the feeds, you will the four icons below
 
 You can also click on the "three dots" on the top right of the post to see more actions you can take to this post.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 * Tx proof \~ go to see the transaction for this post on Nearblocks
 * Copy link \~ copy the invite link to this post to clipboard

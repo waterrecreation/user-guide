@@ -14,7 +14,7 @@ You can also simply block the post as well if you don’t want to see it.
 
 All the activities are recorded on chain, and you can look it up by choosing the TX option within the dropdown list of the three dots symbol.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Report</p></figcaption></figure>
 
 ### Delete
 
@@ -28,4 +28,4 @@ However, since the content is still stored on-chain, it will always exist there.
 
 This is also to maintain a reasonable balance between content moderation and freedom of expression.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@
 
 
 
-    <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 4. Add up to 4 options. Then, determine the duration of the Poll and Confirm.
 5. Review the details for the Poll, and click on ‘Post’ to publish it. You can also set Drips Royalties for this Poll or set this Poll as Drip-gated.
 
@@ -20,7 +20,7 @@ The Poll will automatically be closed and the results will be tallied after the 
 
 1.  Navigate to the Community, and make sure that you have permission to create a proposal. (Not every one has the permission to create a proposal. This depends on the permission settings in the Community Console.)
 
-    <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 2. Find the section to create a post, and enter the proposal in the post box.
 3. Click "create a proposal" button below the post box.
 4. Set parameters for your Proposal.

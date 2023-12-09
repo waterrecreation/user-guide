@@ -16,7 +16,7 @@ Look for the "Follow" button.
 
 Click on it to start following and stay updated with their posts and activities.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 #### **Following from Profile Card:**&#x20;
 
@@ -26,4 +26,4 @@ As you do, a profile card will elegantly pop up, displaying essential informatio
 
 Right there on the card, you'll find the "Follow" button—click it to instantly start following the user.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

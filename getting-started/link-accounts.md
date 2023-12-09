@@ -6,4 +6,4 @@ In **Settings - Linked Accounts**, you can connect to several accounts outside P
 
 By the way, if you have **multiple Ethereum wallets or Twitter accounts**, linking to all of them is no problemo! 😎
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

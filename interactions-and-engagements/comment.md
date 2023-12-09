@@ -2,7 +2,7 @@
 
 You can comment on other members’ posts by directly clicking on the conversation button marked below. Or you can simply click on the Post and enter the post page to leave a comment.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Similar to posts, you can add emojis, images or [Echo](echo.md) in your reply, with up to 300 characters.
 
