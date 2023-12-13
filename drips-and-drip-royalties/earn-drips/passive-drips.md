@@ -4,7 +4,7 @@
 
 Passive Drips delivered to you through Echos are based on [Drip Royalties](../drip-royalties.md).&#x20;
 
-> 👉 For your poll/proposal, each vote you receive will deliver 0.2 Drips, for a detailed breakdown of Poll/Proposal, please see [How Drips work with Poll & Proposal?](how-drips-work-with-poll-and-proposal.md)
+> 👉 For your poll/proposal, each vote you receive will deliver 0.2 Drips, for a detailed breakdown of Poll/Proposal, please see [How Drips work with Poll & Proposal?](../how-drips-work-with-poll-and-proposal.md)
 
 The amount of Drips delivered to a post through likes and comments (passive drips) will be displayed at the bottom of the post, reflecting its popularity. The larger the amount, the more popular the post is.
 

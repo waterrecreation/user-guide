@@ -20,4 +20,4 @@ Once you click on the **Agree & Join** button, you will need to approve a transa
 
 Once finish the above steps, congrats! Welcome to the community! Your journey begins here. Share your story, content, and thoughts with the community in the dedicated feed.
 
-Detailed information about each action you've had in communities can be viewed in the [**Transactions**](navigate-popula.md#profile-section) section which you can find on your profile page as described in [Interface](navigate-popula.md).
+Detailed information about each action you've had in communities can be viewed in the [**Transactions**](../getting-started/navigate-popula.md#profile-section) section which you can find on your profile page as described in [Interface](../getting-started/navigate-popula.md).

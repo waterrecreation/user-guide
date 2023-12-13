@@ -6,18 +6,18 @@
 
 * [Sign in](getting-started/sign-in.md)
 * [Set up Profile](getting-started/set-up-profile.md)
-* [Join Communities](getting-started/join-communities.md)
 * [Link Accounts](getting-started/link-accounts.md)
 * [Navigate Popula](getting-started/navigate-popula.md)
 * [Visitor Mode](getting-started/visitor-mode.md)
 
 ## ❤ Interactions & Engagements
 
-* [Community Feeds](interactions-and-engagements/community-feeds/README.md)
-  * [Post](interactions-and-engagements/community-feeds/post.md)
-  * [Reply](interactions-and-engagements/community-feeds/reply.md)
-  * [Like](interactions-and-engagements/community-feeds/like.md)
-  * [Report & Delete](interactions-and-engagements/community-feeds/report-and-delete.md)
+* [Join Communities](interactions-and-engagements/join-communities.md)
+* [Community Feeds](interactions-and-engagements/community-feeds.md)
+  * [Post](interactions-and-engagements/post.md)
+  * [Reply](interactions-and-engagements/comment.md)
+  * [Like](interactions-and-engagements/like.md)
+  * [Report & Delete](interactions-and-engagements/report-and-delete.md)
 * [Echo](interactions-and-engagements/echo.md)
 * [Poll & Proposal](interactions-and-engagements/poll-and-proposal.md)
 * [Follow](interactions-and-engagements/social-graph.md)
@@ -25,13 +25,13 @@
 
 ## 💧 Drips & Drip Royalties
 
-* [What are Drips](drips-and-drip-royalties/what-are-drips.md)
-* [Earn Drips](drips-and-drip-royalties/earn-drips/README.md)
+* [What are Drips](drips-and-drip-royalties/drips.md)
+* [Earn Drips](drips-and-drip-royalties/earn-drips.md)
   * [Active Drips](drips-and-drip-royalties/earn-drips/active-drips.md)
   * [Passive Drips](drips-and-drip-royalties/earn-drips/passive-drips.md)
   * [Drip Bonus & Decay System](drips-and-drip-royalties/earn-drips/drip-bonus-and-decay-system.md)
   * [Earn Drips from Effective Report](drips-and-drip-royalties/earn-drips/earn-drips-from-effective-report.md)
-  * [How Drips Work with Poll & Proposal?](drips-and-drip-royalties/earn-drips/how-drips-work-with-poll-and-proposal.md)
+  * [How Drips Work with Poll & Proposal?](drips-and-drip-royalties/how-drips-work-with-poll-and-proposal.md)
 * [Claim Drips](drips-and-drip-royalties/claim-drips.md)
 * [Drip Royalties](drips-and-drip-royalties/drip-royalties.md)
 
@@ -45,7 +45,7 @@
 ## 👨💻 Developers
 
 * [Github](https://github.com/beepopula/)
-* [Develop docs](interactions-and-engagements/community-feeds/post.md)
+* [Develop docs](interactions-and-engagements/post.md)
 * [Contracts](developers/contracts.md)
 * [API Reference](developers/api-reference.md)
 * [Change Log](developers/change-log.md)

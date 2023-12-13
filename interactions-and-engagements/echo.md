@@ -43,7 +43,7 @@ You can also add a post from X (prev.Twitter) to your post on Popula.
 
 With the Echo function on Popula, creators can directly benefit from a share of their content, while curators can contribute more meaningfully to the growth of creators. The **Echo** function is the cog in the wheel of **Drip Royalties.** Through Echo, Drip Royalties will organically accumulate momentum and kickstart the flywheel of multiplayer creation.
 
-Of course, you can also choose to [disable Echo](community-feeds/post.md#set-post-drip-royalties) for your post on Popula.
+Of course, you can also choose to [disable Echo](post.md#set-post-drip-royalties) for your post on Popula.
 
 
 

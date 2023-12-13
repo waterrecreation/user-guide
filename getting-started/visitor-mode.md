@@ -32,8 +32,8 @@ Visitor Mode is accessible only if the community has enabled this feature.
 
 #### **Activity limits:**
 
-Community originators have the flexibility to set activity limits for visitors. If your daily activities reach the limit, a nominal $NEAR top-up is required to [join the community](join-communities.md) and continue engaging.&#x20;
+Community originators have the flexibility to set activity limits for visitors. If your daily activities reach the limit, a nominal $NEAR top-up is required to [join the community](../interactions-and-engagements/join-communities.md) and continue engaging.&#x20;
 
 #### Gasless experience for engagements only:
 
-While Visitor Mode offers a gasless experience for general engagements within the community, it's crucial to note that gas fees are still applicable when officially[ **joining the community**](join-communities.md) or [claiming Drips](../drips-and-drip-royalties/claim-drips.md).
+While Visitor Mode offers a gasless experience for general engagements within the community, it's crucial to note that gas fees are still applicable when officially[ **joining the community**](../interactions-and-engagements/join-communities.md) or [claiming Drips](../drips-and-drip-royalties/claim-drips.md).

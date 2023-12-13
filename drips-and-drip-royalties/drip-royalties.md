@@ -2,7 +2,7 @@
 
 Drip Royalties is a groundbreaking feature that revolutionises the relationship between creators and curators. Essentially, Drip Royalties enable the original creator of some content or owner of some NFT to earn Drips each time their content or NFT is [**echoed**](../interactions-and-engagements/echo.md) and engaged with on Popula.
 
-👉 To set Post Drip Royalties, check out the details [here](../interactions-and-engagements/community-feeds/post.md#set-post-drip-royalties).
+👉 To set Post Drip Royalties, check out the details [here](../interactions-and-engagements/post.md#set-post-drip-royalties).
 
 ## Check Drip Royalties
 
