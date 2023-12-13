@@ -1,6 +1,6 @@
 # Poll & Proposal
 
-#### How to create a Poll?
+## How to create a Poll?
 
 1. Go to a community where you want to start the Poll.
 2. Find the section to create a post, and enter the poll question in the post box.
@@ -16,7 +16,7 @@ The Poll will automatically be closed and the results will be tallied after the 
 
 
 
-#### How to create a Proposal?
+## How to create a Proposal?
 
 1.  Navigate to the Community, and make sure that you have permission to create a proposal. (Not every one has the permission to create a proposal. This depends on the permission settings in the Community Console.)
 
@@ -62,7 +62,7 @@ The Poll will automatically be closed and the results will be tallied after the 
 
 <figure><img src="../.gitbook/assets/proposal.gif" alt=""><figcaption></figcaption></figure>
 
-#### How to cast a vote?
+## How to cast a vote?
 
 1. Find the proposal or poll that you want to vote on.
 2. Review the details and options presented in the proposal or poll. Make sure you are eligible to cast a vote.
@@ -74,4 +74,4 @@ Once you have voted, the current voting numbers will be displayed, and you will 
 
 ❗ **Note!**
 
-All the activities you have done will show up on your profile pages. See [**Profile Section**](broken-reference) for more info.
+All the activities you have done will show up on your profile pages. See [Profile Section](../getting-started/navigate-popula.md#profile-section) for more info.

@@ -1,4 +1,4 @@
-# Launch a community
+# Launch a Community
 
 If you want to launch an on-chain community with your cabal and coterie then Popula is the place to go.
 
@@ -19,7 +19,7 @@ First of all, you'll need to give your community a **Community Name**.
 
     <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Once you have decided on your Community Name, upload your Community Profile Image to visually draw your fellow bees in. Or you can skip this part and choose to upload an image later on in **Community Console**.
+Once you have decided on your Community Name, upload your Community Profile Image to visually draw your fellow bees in. Or you can skip this part and choose to upload an image later on in [Community Console](manage-communities.md#community-console).
 
 
 

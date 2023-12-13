@@ -2,9 +2,11 @@
 
 You can invite others to join a community and get extra Drips for the invite.
 
+## Invite Links:
+
 You can generated your invite links in the following two ways:
 
-#### Community Invite Link
+### Community Invite Link
 
 1. Go to the community page you wish to share with others
 2. Click on the "Invite" button on the right side of the profile
@@ -12,7 +14,7 @@ You can generated your invite links in the following two ways:
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-#### Post Invite Link
+### Post Invite Link
 
 1. Go to the post your wish to share with others
 2. Click on the "three dots" at the top right of the post
@@ -20,7 +22,7 @@ You can generated your invite links in the following two ways:
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-#### Track Your Invites
+## Track Your Invites
 
 1. Go to the community page you wish to share with others
 2. Click on the "Invite" button on the right side of the profile
@@ -29,6 +31,6 @@ You can generated your invite links in the following two ways:
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-#### Drips for invites
+## Drips for Invites
 
 Whenever a new membe**r joins the community** successfully via your invite link, you will get **10 Drips** for the invite.

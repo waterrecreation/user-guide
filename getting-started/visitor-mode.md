@@ -6,7 +6,7 @@ description: >-
 
 # Visitor Mode
 
-### **Understanding Visitor Mode:**
+## **Understanding Visitor Mode:**
 
 Introducing the brand-new Visitor Mode, a solution designed to enhance your experience in Popula communities without the hindrance of gas fees. Visitor Mode is all about making your journey within the community smoother.
 
@@ -14,7 +14,7 @@ New to NEAR Blockchain and perplexed about acquiring $NEAR or comprehending gas 
 
 Your gas fees are covered by the Popula Relayer via metatransactions. :raised\_hands:
 
-### Using Visitor Mode:
+## Using Visitor Mode:
 
 1. Log in via Metamask
 2. Go to the community you wish to engage
@@ -22,7 +22,7 @@ Your gas fees are covered by the Popula Relayer via metatransactions. :raised\_h
 4. Start to post, comment, like, or vote in the community. \
    Your will find a "Visitor" tag beside your name on your posts if you're under the Visitor Mode.
 
-### **Restrictions of Visitor Mode**
+## **Restrictions of Visitor Mode**
 
 For Visitors, it's essential to understand the specific limitations in place:
 

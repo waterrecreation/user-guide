@@ -1,8 +1,8 @@
-# Community analytics
+# Community Analytics
 
 Popula provides a variety of analytics and insights related to Members and Drips, allowing users and community leaders to track engagement, growth, and overall community well-being using on-chain data. This helps in taking more informed and efficient steps to manage the community.
 
-### **Community Overview**
+## **Community Overview**
 
 Other than a broad view of all the communities on Popula, Go to the Community Overview page in a community to view its information and statistics.
 
@@ -16,7 +16,7 @@ There are 6 sections on the Community Overview page.
 
 If you are the Community Originator or Admin, you’ll see the edit button beside each editable section.
 
-### **Member Ranking**
+## **Member Ranking**
 
 Each community features a member leaderboard where you can see the member rankings based on different metrics, and where you rank on it.
 
@@ -32,7 +32,7 @@ Additionally, you can easily search for an address to see if the person has alre
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-### **Vibe Pulse**
+## **Vibe Pulse**
 
 It’s a **Community Drip Overview** which indicates the community Drip activities.
 

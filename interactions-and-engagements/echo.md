@@ -10,7 +10,7 @@ The echoed content will activate [Drip Royalties](../drips-and-drip-royalties/dr
 
 
 
-#### Echo a Post on Popula
+## Echo a Post on Popula
 
 1. Go to the post and find the "Echo" button below it.
 2. Click on the button and choose "Echo"
@@ -19,7 +19,7 @@ The echoed content will activate [Drip Royalties](../drips-and-drip-royalties/dr
 
 <figure><img src="../.gitbook/assets/echo post.gif" alt=""><figcaption><p>Echo a post</p></figcaption></figure>
 
-#### Echo an NFT
+## Echo an NFT
 
 Besides native posts on Popula, you can also echo an NFT outside Popula (on either Ethereum or NEAR) to your post. The NFT owner will then receive a 5% share of the passive Drips from this post. Share and curate your favorite NFTs to the community! ✨
 
@@ -31,7 +31,7 @@ Besides native posts on Popula, you can also echo an NFT outside Popula (on eith
 
 <figure><img src="../.gitbook/assets/echo near nft.gif" alt=""><figcaption><p>Echo an NFT</p></figcaption></figure>
 
-#### Echo a Tweet
+## Echo a Tweet
 
 You can also add a post from X (prev.Twitter) to your post on Popula.
 
@@ -43,7 +43,7 @@ You can also add a post from X (prev.Twitter) to your post on Popula.
 
 With the Echo function on Popula, creators can directly benefit from a share of their content, while curators can contribute more meaningfully to the growth of creators. The **Echo** function is the cog in the wheel of **Drip Royalties.** Through Echo, Drip Royalties will organically accumulate momentum and kickstart the flywheel of multiplayer creation.
 
-Of course, you can also choose to [disable Echo](post.md#set-post-drip-royalties) for your post on Popula.
+Of course, you can also choose to [disable Echo](community-feeds/post.md#set-post-drip-royalties) for your post on Popula.
 
 
 

@@ -10,7 +10,7 @@ Popula’s user interface consists of the following sections:
 
 To navigate to different sections, simply click the icons located in the sidebar.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Sidebar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Sidebar</p></figcaption></figure>
 
 ## Communities Section
 
@@ -22,7 +22,7 @@ As soon as you log in, you're automatically a part of the awesome Popula Communi
 
 If you hover over a community, you will see a small star next to the community, click here to mark the community as your Starred Community.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Profile Section
 
@@ -40,7 +40,7 @@ You will also see the date of following and TxIDs after each follower/following 
 
 Every action you perform on Popula is recorded on the blockchain as a transaction. Within the **Transaction** section, you can view a summary of your activities on Popula, including a chart that illustrates the proportions of different types of your behaviors. Beneath the summary, you will find a record of each of your activities, and clicking on the TxID will take you to the corresponding transaction on [Nearblocks](https://nearblocks.io/).
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
