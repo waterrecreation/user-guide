@@ -14,6 +14,8 @@ The table below lists the cost of some common actions on Popula in TGas and $NEA
 | Agree Rules     | \~ 15 Tgas   | \~ 0.0014 $NEAR  |
 
 For post, reply or like, the gas cost may vary based on the complexity of the content.\
-The gas price is not fixed: it is recalculated each block depending on network demand. If the previous block is more than half full the price goes up, otherwise it goes down.\
+The gas price is not fixed: it is recalculated each block depending on network demand. If the previous block is more than half full the price goes up, otherwise it goes down.
+
+\
 \
 More about [Gas on NEAR Protocol](https://docs.near.org/concepts/basics/transactions/gas#how-is-the-gas-price-computed).
