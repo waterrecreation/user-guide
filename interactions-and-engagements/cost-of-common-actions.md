@@ -1,6 +1,6 @@
 # Cost of Common Actions
 
-To give you a starting point for what to expect for costs on NEAR, the table below lists the cost of some common actions in TGas and milliNEAR (based on the average cost of transactions).
+The table below lists the cost of some common actions on Popula in TGas and $NEARⓃ (based on the average cost of transactions).
 
 | Operation       | TGas         | fee (Ⓝ)          |
 | --------------- | ------------ | ---------------- |
