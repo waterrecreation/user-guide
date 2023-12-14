@@ -28,7 +28,7 @@ For each transaction you send to the NEAR network, a fee is charged. This fee is
 
 ### **How do I launch my own community on Popula?**
 
-Launching a community on Popula is now permissionless. To get started, simply click the "Launch Community" button on the homepage. For more details, visit [3.2 Launch a community](https://www.notion.so/3-Communities-ae8d11847f3043e0a2723a6bce362b90?pvs=21). When Popula Mainnet launches, you'll need to be whitelisted before launching a community. To apply for the Whitelist, click [here](https://0smaupbwvz0.typeform.com/to/BYx9MMTZ?typeform-source=popula.io).
+Launching a community on Popula is now still whitelisted. To get started, apply for the whitelist [here](https://0smaupbwvz0.typeform.com/to/BYx9MMTZ?typeform-source=popula.io). For more details, visit [3.2 Launch a community](https://www.notion.so/3-Communities-ae8d11847f3043e0a2723a6bce362b90?pvs=21).&#x20;
 
 ### **Who are community originators?**
 
@@ -40,10 +40,10 @@ Hit us up in our [Popula community](https://t.me/populacommunity), join our Popu
 
 ### **Why do I need to pay $NEAR when launching a community?**
 
-Each Popula community has its own smart contract, which is automatically deployed by the Popula Community Factory Protocol, another contract dedicated to creating community contracts for each new community. Please note that **deploying a contract on NEAR will incur fees, including gas and storage fees.** Therefore, when starting a community on Popula, you need to deposit **9 $NEAR** to cover the cost of deploying the contract.
+Each Popula community has its own smart contract, which is automatically deployed by the Popula Community Factory Protocol, another contract dedicated to creating community contracts for each new community. Please note that **deploying a contract on NEAR will incur fees, including gas and storage fees.** Therefore, when starting a community on Popula, you need to deposit **9.5 $NEAR** to cover the cost of deploying the contract.
 
 For more details, please refer to the official documentation [here](https://docs.near.org/concepts/basics/transactions/gas-advanced#deploying-contracts).
 
 ### **What is Visitor Mode?**
 
-The Visitor mode is a feature that helps communities reduce the cost of onboarding single sign-in users through meta-transactions. Community moderators can enable the Visitor Mode in Community Console and top up Visitor’s Account to cover gas fees for visitors. Community moderators can also choose which activities visitors can access in their Community.
+The Visitor Mode is a feature that helps communities reduce the cost of onboarding single sign-in users through meta-transactions. Community moderators can enable the Visitor Mode in Community Console and top up the Visitor’s Account to cover gas fees for visitors. Community moderators can also choose which activities visitors can access in their Community.
