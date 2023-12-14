@@ -44,9 +44,9 @@
 
 ## 👨💻 Developers
 
-* [Github](https://github.com/beepopula/)
 * [Develop docs](interactions-and-engagements/post.md)
 * [Contracts](developers/contracts.md)
+* [Github](https://github.com/beepopula/)
 * [API Reference](developers/api-reference.md)
 * [Change Log](developers/change-log.md)
 
