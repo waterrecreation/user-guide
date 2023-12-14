@@ -22,6 +22,7 @@
 * [Poll & Proposal](interactions-and-engagements/poll-and-proposal.md)
 * [Follow](interactions-and-engagements/social-graph.md)
 * [Invite](interactions-and-engagements/invite.md)
+* [Cost of Common Actions](interactions-and-engagements/cost-of-common-actions.md)
 
 ## 💧 Drips & Drip Royalties
 
