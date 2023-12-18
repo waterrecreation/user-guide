@@ -4,7 +4,7 @@ You can invite others to join a community and get extra Drips for the invite.
 
 ## Invite Links:
 
-You can generated your invite links in the following two ways:
+You can generate your invite links in the following two ways:
 
 ### Community Invite Link
 
