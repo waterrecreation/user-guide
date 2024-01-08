@@ -7,12 +7,10 @@ Social Media:
 Blog:
 
 * Medium: [https://medium.com/beepopula](https://medium.com/beepopula)
-* Mirror: coming soon
 
 Video:
 
-* Street interviews:&#x20;
-* Video tutorials
+* Youtube: [https://www.youtube.com/@beepopula\_official](https://www.youtube.com/@beepopula\_official)
 
 Others:
 

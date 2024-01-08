@@ -22,6 +22,6 @@ Recognizing these valuable contributions, members receive reputation points, ref
 
 ## Our Mission
 
-Popula’s mission is to create a web3 platform empowering ownership and enriching socio-economic engagement. Popula ensures that members’ contributions are provable and everlasting by rec![image.png](https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2FZBnKaPLpAdCRQYIhODUk%2Fuploads%2FpxQX0QR8U1i1zpVreKeQ%2Fimage.png%3Falt%3Dmedia%26token%3Df363acf0-66c0-47ab-ba9b-987ea30a6d04)ording them on-chain and measuring them with non-transferrable fungible tokens and platform co-ownership.
+Popula’s mission is to create a web3 platform empowering ownership and enriching socio-economic engagement. Popula ensures that members’ contributions are provable and everlasting by recording them on-chain and measuring them with non-transferrable fungible tokens and platform co-ownership.
 
-### <mark style="color:purple;">Coming for the content, staying for the community</mark>
+### <mark style="color:purple;">Coming for the community, staying for the economy</mark>
